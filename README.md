@@ -7,3 +7,8 @@ Yet to be implemented: Infinite worlds, Caves, Multiplayer and Crafting(Perhaps 
 
 
 Required Modules: Ursina(pip install ursina) and perlin_noise(pip install perlin-noise)
+
+
+Stone Texture from https://www.youtube.com/channel/UCvTkXfdV-oQRUYMM2R3p9zQ
+
+The tree trunk, tree leaves, copper block and diamond block textures have been made by https://www.reddit.com/user/ShreyasGlad_Cry/
