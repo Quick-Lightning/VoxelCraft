@@ -95,7 +95,7 @@ def update():
 
 
 FPC = FirstPersonController()
-print("PyCraft v0.19.3")
+print("VoxelCraft v1.1.3")
 print("")
 worldx = "16"
 worldz = "16"
