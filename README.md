@@ -5,3 +5,5 @@ Features:Trees, Water(But there's no gravity, so if you break a block next to wa
    
 Yet to be implemented: Infinite worlds, Caves, Multiplayer and Crafting(Perhaps in the very distant future?)
 
+
+Required Modules: Ursina(pip install ursina) and perlin_noise(pip install perlin-noise)
