@@ -97,14 +97,10 @@ def update():
 FPC = FirstPersonController()
 print("PyCraft v0.19.3")
 print("")
-worldx = "15"
-worldz = "9"
+worldx = "16"
+worldz = "16"
 voxels = []
 print(f"World seed:{worldseed}")
-while int(worldx) < 8 or int(worldz) < 8:
-    print("Length too small. Try again")
-    worldx = input("Enter the world length:")
-    worldz = input("Enter the world breadth:")
 for z in range(int(worldz)):
     for x in range(int(worldx)):
         y = noise([x * .02, z * .03])
